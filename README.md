@@ -1,11 +1,11 @@
 ## Recursos utilizados no desenvolvimento:0
 
 - Node.Js - [DOWNLOAD AQUI](https://nodejs.org/en/)
-- Express.Js ~ v.4.0;
+- Express.Js;
 - Conceito RestFul;
 - MongoDb - [DOWNLOAD AQUI](https://www.mongodb.com/)
 - Visual Studio Code - [DOWNLOAD AQUI](https://code.visualstudio.com/?WT.mc_id=javascript-0000-gllemos)
-- Mongoose ~4.x;
+- Mongoose;
 - JSON data (para retornar os dados);
 - PostMan (testar a API criada);
 
