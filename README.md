@@ -1,6 +1,4 @@
-## Av2 de Projetos Web
-
-Por: Kleyson da Silva Cabral
+## Atividade avaliativa da disciplina Projetos para Web
 
 ## Recursos utilizados no desenvolvimento
 
